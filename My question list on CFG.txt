@@ -1,0 +1,25 @@
+Q1 If we see precisely ,there are no relations between API caslls and basic blocks , then what could be possible as an alternate , should both be given separately like API calls should be taken as ground truth and passed to some other model and Basic blocks and opcodes make edges somehow and passed to another model
+Q2 what is the relation of opcodes and basic blocks
+Q3 what is the basic block in exe's asm and what does it contains
+Q4 what is the function calls in exe's asm and what does it contains
+Q5 what is the dll imports in exe's asm and what does it contains and how can it contribiute in CFG alongwith function calls
+Q6 what will the contribution of function calls and dll imports ,both combined , in CFG formation
+Q7 can we combine and relate function calls and dll imports to make a single node ?if yes then how the edges will be made between nodes and what will be their relation
+Q8 will all the nodes contains dll? if no why?
+Q9 How will the nodes be related to each other in either case means both in case of a node having dll import alogwith function call and one having no dll import
+Q10 What is the contribution of instructions in the node and how are they important in cfg
+Q11 Is it important that every function call also contains instructions too?
+Q12 where are the instructions present in the asm , within the basic blocks or Function calls or both?
+Q13 is there any contribution of basic blocks in CFG formation?
+Q14 what is the possible structure of basic block
+Q15 how the opcode will contribute in CFG
+Q16 Can we make a CFG where each node have the attributes ,basic block , function call, dll import, opcode 
+Q17 how it makes sense that this node's attributes are corelated and is it fesible to make CFG as per this node to represent 
+Q18 what will be the basic element or attribute in this node which will never be empty and will always be present to make edges in that cfg , is there only one or more?
+Q19 what is the hierarcy of basic blocks function calls dll imports and opcode 
+Q20 does the basic blocks within the exe's asm cover all the functions in whole asm?
+Q21 so don't you think that the essential attribute or main attribute of node should be function call , rather than basic block?
+Q22 what if a there are few fucntions which dont have any link with any basic block out there , what will be the values of attributes of nodes then, show the example node
+Q23 will the basic block presence change the values of calling code ,instructions and outgoing edges
+
+
