@@ -1,4 +1,11 @@
 # Binary Classification Research Project with GNN 📊🧠
+I have recorded some of my work here in this vedio with our Prof Dr. Muhammad Masoom Alam(mailto:masoom.alam@gmail.com)
+## Video Overview 🎥
+
+[![Binary Classification Video Series](https://img.youtube.com/vi/jdVu4pd64b0/0.jpg)](https://www.youtube.com/watch?v=jdVu4pd64b0&list=PLD6vpo7i_to_Q8Os4s22qdH9wSbZTKfkg)
+
+In this vedio, you'll find informative content related to binary classification and AI-driven security research. Click the image above to start watching!
+
 
 ## Project Overview 🌐
 
