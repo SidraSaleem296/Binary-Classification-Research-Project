@@ -51,12 +51,12 @@ The materials you find in this repository offer a glimpse into the ongoing resea
 
 ## How to Contribute 🌟
 
-1. Reach out to us at [sidrasaleem296@gmail.com](mailto:sidrasaleem296@gmail.com) to express your interest and intention to collaborate.
+1. Reach out to me at [sidrasaleem296@gmail.com](mailto:sidrasaleem296@gmail.com) to express your interest and intention to collaborate.
 2. Upon joining, you'll gain access to the full range of notes, research materials, and our complete approach.
 3. Collaborate, innovate, and contribute to the evolution of binary classification with GNNs.
 
 ## Contact Us 📬
 
-Feel free to contact us via email at [sidrasaleem296@gmail.com](mailto:sidrasaleem296@gmail.com) for any inquiries, suggestions, or if you're excited to embark on this research journey with us.
+Feel free to contact me via email at [sidrasaleem296@gmail.com](mailto:sidrasaleem296@gmail.com) for any inquiries, suggestions, or if you're excited to embark on this research journey with us.
 
 Thank you for your interest in our ongoing research project. Let's explore the potential of GNNs together! 🚀🧠
